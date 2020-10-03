@@ -11,5 +11,9 @@
             ## necessary library                                                                                                                                 
                 1. pytesseract                                                                                                                                                                       
                 2. opencv                                                                                                                                                             
-                3. a pytesseract file                                                                                                                                            
+                3. a pytesseract file  
+                
+                
+  3. document_scanner                                                                                                                                                            
+          scanning document using opencv
 
